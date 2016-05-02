@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I had my computer on and my chat screens open in case anyone wanted to say hi. I was playing a game on my phone, virtually flicking paper balls into a trash can, and I was better at it on the small screen of my phone than the larger screen of my tablet, so my tablet was playing music. And then Jerry and co. were on the television, loud enough to be heard if I focused on it, but lower than the music. I had my fan on and my humidifier going, and I had just decided that eating six pieces of pizza ordered online would be my limit, because if I ate any more I wouldn’t have lunch for tomorrow.'
-datePublished: '2016-05-02T17:40:18.524Z'
-dateModified: '2016-05-02T17:40:18.245Z'
+datePublished: '2016-05-02T17:41:03.303Z'
+dateModified: '2016-05-02T17:40:43.611Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-i-had-my-computer-on-and-my-chat-screens-open-in-case-anyone.md
