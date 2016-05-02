@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I had my computer on and my chat screens open in case anyone wanted to say hi. I was playing a game on my phone, virtually flicking paper balls into a trash can, and I was better at it on the small screen of my phone than the larger screen of my tablet, so my tablet was playing music. And then Jerry and co. were on the television, loud enough to be heard if I focused on it, but lower than the music. I had my fan on and my humidifier going, and I had just decided that eating six pieces of pizza ordered online would be my limit, because if I ate any more I wouldn’t have lunch for tomorrow.'
-datePublished: '2016-05-02T17:07:00.651Z'
-dateModified: '2016-05-02T17:06:50.522Z'
+datePublished: '2016-05-02T17:10:07.092Z'
+dateModified: '2016-05-02T17:07:09.647Z'
 title: ''
 author: []
 authors: []
