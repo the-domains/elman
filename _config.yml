@@ -1,6 +1,6 @@
 name: Max Elman
 favicon: null
-layout_spectrum: 0.8639782257378101
+layout_spectrum: 0.28016
 typography_spectrum: 0.5555323753505945
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#21121f'
     - '#453f45'
     - '#c8c7d9'
-  brandStrength: 0.3847000999376178
-  lightness: 0.10147189744748175
-  saturation: 0.6270217755809426
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
