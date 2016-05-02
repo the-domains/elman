@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I had my computer on and my chat screens open in case anyone wanted to say hi. I was playing a game on my phone, virtually flicking paper balls into a trash can, and I was better at it on the small screen of my phone than the larger screen of my tablet, so my tablet was playing music. And then Jerry and co. were on the television, loud enough to be heard if I focused on it, but lower than the music. I had my fan on and my humidifier going, and I had just decided that eating six pieces of pizza ordered online would be my limit, because if I ate any more I wouldn’t have lunch for tomorrow.'
-datePublished: '2016-05-02T17:10:07.092Z'
-dateModified: '2016-05-02T17:07:09.647Z'
+datePublished: '2016-05-02T17:40:18.524Z'
+dateModified: '2016-05-02T17:40:18.245Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-i-had-my-computer-on-and-my-chat-screens-open-in-case-anyone.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-i-had-my-computer-on-and-my-chat-screens-open-in-case-anyone.md
-published: true
 url: i-had-my-computer-on-and-my-chat-screens-open-in-case-anyone/index.html
 _type: Article
 
 ---
+To Have Nothing
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc1ffee1-5728-49f0-a3e1-0b5ade251c43.jpg)
 
 I had my computer on and my chat screens open in case anyone wanted to say hi. I was playing a game on my phone, virtually flicking paper balls into a trash can, and I was better at it on the small screen of my phone than the larger screen of my tablet, so my tablet was playing music. And then Jerry and co. were on the television, loud enough to be heard if I focused on it, but lower than the music. I had my fan on and my humidifier going, and I had just decided that eating six pieces of pizza ordered online would be my limit, because if I ate any more I wouldn't have lunch for tomorrow.
@@ -47,5 +48,3 @@ When I got to the end of the sidewalk, I considered taking off my shoes and sock
 I had the sound of two boomboxes like parentheses on either side of me, and then the sound of the ocean, which sounded a little bit like my humidifier. There were a couple of kids right in front of me, laughing every few seconds. On my immediate right, two men were discussing whether it would be worth it to get back in the water after drying out so thoroughly. I almost asked for a drink from their cooler, it was an enormous cooler, full, and it seemed like they had only themselves to keep hydrated.
 
 Someone's ringtone sounded a lot like mine. I stood up and brushed the sand from my hands. I didn't sign out from the chat before I left. It makes me nervous when I can't be reached.
-
-To Have Nothing
